@@ -32,6 +32,10 @@ yarn-error.log*
 .env
 .env*.local
 
+# blip router credentials
+/data/blip-routers.json
+
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+.vercel
